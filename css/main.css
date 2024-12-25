@@ -1,14 +1,14 @@
 :root {
-  --bkg: #D2D79F;
-  --font-color: #483838;
-  --header-anchor-color: #483838;
-  --anchor-hover-color: #42855B;
-  --wiki-bkg-color-hover: #52956B;
+  --bkg: #d4cec2;
+  --font-color: #151119;
+  --header-anchor-color: #151119;
+  --anchor-hover-color: #bc7259;
+  --wiki-bkg-color-hover: #bc7259;
 }
 
 body {
     margin: 2em auto;
-    background-color: var(--bkg);
+    background-color: #d4cec2;
     width: 70%;
 }
 
@@ -90,7 +90,7 @@ nav {float: right;}
 nav a {
     padding: 0.8em;
     border-radius: 5%;
-    background-color: var(--header-anchor-color);
+    background-color: #617a8c;
     color: var(--bkg);
     text-decoration: none;
     border-bottom: none;}
